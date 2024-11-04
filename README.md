@@ -7,6 +7,7 @@
 ![image](https://github.com/13859/WatermarkVaccine_AIGC/blob/master/GUI.png)
 
 在 Web 操作界面左上角输入原始图片，用户设置好保护强度，输出尺寸等参数后即可生成视觉不变的受保护的对抗样本。
+
 3.“智绘疫苗：AIGC 大模型训练图片的版权保护系统”版权保护效果展示图
 ![image](https://github.com/13859/WatermarkVaccine_AIGC/blob/master/效果图.png)
 
